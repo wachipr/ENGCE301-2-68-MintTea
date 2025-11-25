@@ -27,7 +27,7 @@ Software Design and Development (MintTea group 7)
 
 ### 3) แต่ละคนคิดว่า Panel ไหนใน DevTools จะได้ใช้บ่อยที่สุดในเทอมนี้ (Elements / Console / Network / อื่น ๆ)? เพราะอะไร?
 **ตอบ**  
-- (วชิรานีย์)  
+- (วชิรานีย์)  **Console Network** เพราะ ไว้สำหรับดู error ของ backend และดูload ของระบบlocalที่เราเขียนว่ามีload อะไรขึ้นไปบ้างและเกิดerrorจรงจุดไหนบ้าง ก่อนจะขึ้นระบบจริง
 - (จิรภัทร)  **Elements** เพราะใช้จัด layout และ debug UI
 - (นฤชิต)  **Console** เพราะน่าจะได้ใช้ตรวจสอบค่าบ่อยถ้าเกิดมีอะไรผิดพลาด
 - (อานุภาพ) **Console** เพราะ ดู error JS และเช็คตัวแปร
