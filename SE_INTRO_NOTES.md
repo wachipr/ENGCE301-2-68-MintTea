@@ -47,13 +47,8 @@
 
 # ภาพรวม SDLC (Software Development Life Cycle)
     ```mermaid
-flowchart LR
-    R[Requirements] --> D[Design]
-    D --> I[Implementation]
-    I --> T[Testing]
-    T --> DEP[Deployment]
-    DEP --> M[Maintenance]
-```
+            [Requirements] --> [Design] --> [Implementation] --> [Testing] --> [Deployment] --> [Maintenance] 
+    ```
 
 ### Requirements
  - เป็นขั้นตอนรวบรวมและวิเคราะห์ความต้องการของผู้ใช้และผู้มีส่วนเกี่ยวข้องทั้งหมด เพื่อให้เข้าใจว่าระบบต้องทำอะไร มีข้อจำกัดอะไร และมีเป้าหมายแบบใด
