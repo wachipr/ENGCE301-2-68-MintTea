@@ -8,6 +8,7 @@ Software Design and Development (MintTea group 7)
 
 # File
 - [ENVIRONMENT.md](./ENVIRONMENT.md)
+- [SE_INTRO_NOTES.md](./SE_INTRO_NOTES.md)
 
 ## DevTools Reflection (Week 1)
 
