@@ -10,6 +10,6 @@ Software Design and Development (MintTea group 7)
 - [[MintTea_WebSubmit]](https://mintteasoft.github.io/MintTea/)
 
 # My Lab
-- [Week 1](./Week1/README.md) 
-- [Week 2](./Week2/README.md)
-- [Week 3](./Week3/README.md)
+- [Week 1](./Week%201/README.md) 
+- [Week 2](./Week%202/README.md)
+- [Week 3](./Week%203/README.md)
