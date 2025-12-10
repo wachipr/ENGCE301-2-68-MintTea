@@ -1,2 +1,2 @@
 # Miro
-- [Miro](https://miro.com/app/board/uXjVJkXHRxE=/)
+- [Miro](https://rmutl.link/TfLNFNmJ)
