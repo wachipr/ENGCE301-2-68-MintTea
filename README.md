@@ -10,6 +10,6 @@ Software Design and Development (MintTea group 7)
 - [[MintTea_WebSubmit]](https://mintteasoft.github.io/MintTea/)
 
 # My Lab
-- [Week 1](./Week%201/)
-- [Week 2](./Week%202/)
-- [Week 3](./Week%203/)
+- [Week 1](./Week1/)
+- [Week 2](./Week2/)
+- [Week 3](./Week3/)
