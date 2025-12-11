@@ -1,4 +1,5 @@
-# Week 3
+# Week 3 Agile Requirements & Use Cases + HTML/CSS Layout
+User Stories, Acceptance Criteria, Use Case Diagram & Scenario Basic CSS layout
 
 # File
 - [UseStories](././Week3/Lab_3UserStoriesmd)
